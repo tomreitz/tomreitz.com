@@ -7,3 +7,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+name: "Tom Reitz"
+description: "Tom is a technology professional based in Madison WI"
+url: "https://tomreitz.com"
+logo: "/assets/logo.png"
