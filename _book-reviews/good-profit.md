@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "Good Profit"
 permalink: "/book-reviews/good-profit"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "The 4-Hour Work Week"
 permalink: "/book-reviews/the-4-hour-work-week"
 ---

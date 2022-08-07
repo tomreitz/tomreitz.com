@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "Bowling Alone"
 permalink: "/book-reviews/bowling-alone"
 ---

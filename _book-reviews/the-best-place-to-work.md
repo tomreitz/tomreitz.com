@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "The Best Place to Work"
 permalink: "/book-reviews/the-best-place-to-work"
 ---

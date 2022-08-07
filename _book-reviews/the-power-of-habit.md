@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "The Power of Habit"
 permalink: "/book-reviews/the-power-of-habit"
 ---

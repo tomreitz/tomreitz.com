@@ -104,3 +104,4 @@ With a relatively good irregularity metric, we could combine other data (like po
 * [Redistricting: Drawing the Line](https://arxiv.org/pdf/1704.03360.pdf)
 
 *Data for this research courtesy of [Ballotpedia](https://ballotpedia.org/).*
+{: .notice}

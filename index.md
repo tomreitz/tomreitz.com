@@ -27,3 +27,4 @@ a master's degree with emphasis in data science at the same institution.
 Thanks for checking out my website. May you have joy and peace wherever you go in life!
 
 *Opinions on this website are my own.*
+{: .text-center}

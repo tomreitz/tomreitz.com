@@ -1,5 +1,4 @@
 ---
-layout: "page"
 title: "Beautiful Data"
 permalink: "/book-reviews/beautiful-data"
 ---
