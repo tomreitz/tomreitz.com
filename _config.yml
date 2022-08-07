@@ -24,6 +24,14 @@ search: true
 lunr:
   search_within_pages: true
 
+collections:
+  book-reviews:
+    output: true
+    permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _pages
   - scope:

@@ -1,6 +1,9 @@
 ---
-title: "Book reviews"
+title: "Book Reviews"
 permalink: "/book-reviews/"
+collection: book-reviews
+entries_layout: grid
+classes: wide
 ---
 
 I enjoy reading and sometimes I note down some thoughts about what I've read. Below are some book reviews.

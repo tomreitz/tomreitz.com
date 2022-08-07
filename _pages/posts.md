@@ -1,6 +1,9 @@
 ---
 title: "Posts"
 permalink: "/posts/"
+collection: posts
+entries_layout: grid
+classes: wide
 ---
 
 * [The Effect of Redistricting](./the-effect-of-redistricting.html) (February 13, 2021) (data, politics)
