@@ -1,5 +1,6 @@
 ---
-layout: "page"
+title: Home
+permalink: /
 ---
 
 Hey there, I'm Tom Reitz. On this site, you will find my book reviews, data analysis, technical articles, and other musings.
