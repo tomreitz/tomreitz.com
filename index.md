@@ -1,4 +1,4 @@
-Hey there, I'm Tom Reitz. On this blog, you will find my book reviews, data analysis, technical articles, and other musings.
+Hey there, I'm Tom Reitz. On this site, you will find my book reviews, data analysis, technical articles, and other musings.
 Please [contact me](mailto:tom@tomreitz.com) if you have any questions or just want to say hi. I love meeting new people,
 building strong relationships, and having interesting conversations!
 
