@@ -1,5 +1,3 @@
-# Working from Home
-
 *Posted March 13, 2020*
 
 With the [spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html#epi-curve) driving many more people to work from home, I thought I'd share some of my tips for working from home (based on my 10+ years of experience):

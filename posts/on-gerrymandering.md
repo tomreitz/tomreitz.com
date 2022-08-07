@@ -1,5 +1,3 @@
-# On Gerrymandering
-
 *Posted December 11, 2018*
 
 [According to the U.S. Constitution](https://history.house.gov/Institution/Origins-Development/Proportional-Representation/), congressional districts are supposed to provide [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation). Practically speaking, that means that districts should be [contiguous](https://en.wikipedia.org/wiki/Geographic_contiguity), contain roughly the same number of inhabitants, and (based on the Voting Rights Act of 1965) roughly the same racial makeup. State legislative districts are also drawn to similar standards.
