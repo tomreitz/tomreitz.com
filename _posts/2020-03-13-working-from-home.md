@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Working from home"
 permalink: "/posts/working-from-home"
 ---

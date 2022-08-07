@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Resistance and momentum"
 permalink: "/posts/resistance-and-momentum"
 ---

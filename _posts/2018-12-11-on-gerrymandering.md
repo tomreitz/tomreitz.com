@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "On gerrymandering"
 permalink: "/posts/on-gerrymandering"
 ---
