@@ -1,3 +1,9 @@
 remote_theme: mmistakes/minimal-mistakes
 
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
