@@ -6,7 +6,7 @@
 
 State Legislatures redraw district boundaries every 10 years (after the census) to relect population changes. But due to the partisan nature of legislatures, redistricting often leads to [gerrymandering](https://ballotpedia.org/Gerrymandering) - the drawing of convoluted boundaries to achieve partisan control - to consolidate control for one party.
 
-![assets/gerrymandering-steal.png](assets/gerrymandering-steal.png)
+![../assets/gerrymandering-steal.png](../assets/gerrymandering-steal.png)
 
 Gerrymandering is unduly complex and can be unfair, which is why [most people dislike it](https://www.fairvote.org/new_poll_everybody_hates_gerrymandering).
 
@@ -17,7 +17,7 @@ I wanted to find a mathematical way to compare how gerrymandered two districts m
 
 One way to detect irregular districts might be to compare the perimeter of a district to its area. The idea here is that a "simple" district boundary, such as a square, would have a much lower perimeter-to-area ratio than a complex shape like a 5-point star.
 
-![assets/gerrymandering-shape.png](assets/gerrymandering-shape.png)
+![../assets/gerrymandering-shape.png](../assets/gerrymandering-shape.png)
 
 The figure above shows a 5-point star that fits inside a square. The star's perimeter is the same as that of the square, but its area is less than one third.
 
@@ -25,11 +25,11 @@ However, one problem with simply dividing the perimeter by the area is that comp
 
 Next, I computed the *District Irregularity Index* for a bunch of state legislative districts. I queried for `0.25*ST_Perimeter(boundary)/SQRT(ST_Area(boundary))`. (District boundaries were stored in the PostGIS database as multipolygons in a geography column called *boundary*.) Unsurprisingly, the simplest (most "square") districts - for example, [Michigan House of Representatives District 37](https://housedems.com/greig/district) and [Ohio House of Representatives District 1](http://www.ohiohouse.gov/members/district-map) - scored around 1.
 
-![assets/gerrymandering-square.png](assets/gerrymandering-square.png)
+![../assets/gerrymandering-square.png](../assets/gerrymandering-square.png)
 
 But on the other end of the spectrum, districts like [Alaska State Senate District R](https://www2.census.gov/geo/maps/dc10map/SLD_RefMap/upper/st02_ak/sldu0200r/DC10SLDU0200R_000.pdf) and [Maryland House of Delegates District 37B](https://ballotpedia.org/Maryland_House_of_Delegates_District_37B) scored very high - not because they are gerrymandered, but because they are coastal districts that include many islands. When each coastal island gets its own polygon, the irregularity index can be high for non-gerrymandered districts.
 
-![assets/gerrymandering-nonsquare.png](assets/gerrymandering-nonsquare.png)
+![../assets/gerrymandering-nonsquare.png](../assets/gerrymandering-nonsquare.png)
 
 To address this, I added one more term to the formula: divide by the total number of polygons in the boundary. For most land-locked districts, this will be 1, but for districts with complex coastlines, it will help reduce the irregularity index value.
 
@@ -44,7 +44,7 @@ Running this query turned up some very interesting districts, including:
 * [Maryland House of Delegates District 37A](https://ballotpedia.org/Maryland_House_of_Delegates_District_37A)
 * [Maine House of Representatives District 122](https://www.maine.gov/sos/cec/elec/apport/statewidehouse.pdf) (quite a gem)
 
-![assets/gerrymandering-districts.png](assets/gerrymandering-districts.png)
+![../assets/gerrymandering-districts.png](../assets/gerrymandering-districts.png)
 
 Again, just because these district shapes are irregular doesn't mean they are gerrymandered... but there is a higher likelyhood they might be.
 
@@ -67,15 +67,15 @@ After the 2017 redrawing, the average district irregularity decreased almost 10%
 ### District Irregularity Analysis
 Next, I computed the irregularity index for all congressional and state legislative districts. Full results are available [here](https://docs.google.com/spreadsheets/d/14tIcQGdyLsr6fcOQWpCrNBz7hSF3ZRtTtiUwEnb-_jg/edit?usp=sharing), but I will present some findings below.
 
-![assets/gerrymandering-avg-irregularity-state-senate.png](assets/gerrymandering-avg-irregularity-state-senate.png)
+![../assets/gerrymandering-avg-irregularity-state-senate.png](../assets/gerrymandering-avg-irregularity-state-senate.png)
 
 The most irregular Senate districts are in Virginia and Louisiana, the least irregular are in Puerto Rico and Wisconsin.
 
-![assets/gerrymandering-avg-irregularity-state-house.png](assets/gerrymandering-avg-irregularity-state-house.png)
+![../assets/gerrymandering-avg-irregularity-state-house.png](../assets/gerrymandering-avg-irregularity-state-house.png)
 
 The most irregular House districts are in Alabama and Kentucky, the least irregular are in Alaska and Wisconsin.
 
-![assets/gerrymandering-avg-irregularity-cong.png](assets/gerrymandering-avg-irregularity-cong.png)
+![../assets/gerrymandering-avg-irregularity-cong.png](../assets/gerrymandering-avg-irregularity-cong.png)
 
 For Congressional districts, the graph above is interesting because it has a tail made up of single-district coastal states and territories. Their average irregularity is low because of the division by number of polygons. Among the other states, Wyoming and South Dakota (both nearly-square states with only one congressional district) have low average irregularity, and Ohio and Arkansas have high average irregularity.
 
