@@ -13,3 +13,28 @@ title: "Tom Reitz"
 description: "Tom is a technology professional based in Madison WI"
 url: "https://tomreitz.com"
 logo: "/assets/logo.png"
+
+atom_feed:
+  hide: true
+
+search: true
+lunr:
+  search_within_pages: true
+
+footer:
+  links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/tom.reitz"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/t0mreitz"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tomreitz"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/user/tomreitz"
+    label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tomreitz/"
