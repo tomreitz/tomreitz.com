@@ -1,6 +1,7 @@
 ---
 title: "Good Profit"
-permalink: "/book-reviews/good-profit"
+permalink: "/posts/good-profit"
+tags: ["book-review"]
 ---
 
 I've had [Good Profit](https://www.amazon.com/Good-Profit-Creating-Successful-Companies-ebook/dp/B00TWEMGE8) by [Charles Koch](https://en.wikipedia.org/wiki/Charles_Koch) on my to-read list for a while, and I finally picked up a copy at the library. Whatever you may think of the Koch family or empire, it's hard to argue that they've been unsuccessful in business. The book lays out the "Market-Based Management" business philosophy Koch has developed over his career and which he uses to run his company.

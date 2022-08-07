@@ -1,6 +1,7 @@
 ---
 title: "The Best Place to Work"
-permalink: "/book-reviews/the-best-place-to-work"
+permalink: "/posts/the-best-place-to-work"
+tags: ["book-review"]
 ---
 
 A few weeks ago, I was reading Ron Friedman's [The Best Place to Work](https://amzn.to/2Dg1hO4) at a clinic when my doctor walked in and quipped "I see you are reading a work of fiction." This admittedly amusing comment reflects the fact that many people don't enjoy their work, their colleagues, or their workplace.

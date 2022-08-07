@@ -1,6 +1,7 @@
 ---
 title: "Weapons of Math Destruction"
-permalink: "/book-reviews/weapons-of-math-destruction"
+permalink: "/posts/weapons-of-math-destruction"
+tags: ["book-review"]
 ---
 
 I recently read [Weapons of Math Destruction](https://amzn.to/2CUTrcb) by Cathy O'Niel, after seeing it recommended several times. The book is an easy read and a thought-provoking exploration of the ethical implications of big data algorithms.

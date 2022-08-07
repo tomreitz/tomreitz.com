@@ -1,6 +1,7 @@
 ---
 title: "Beautiful Data"
-permalink: "/book-reviews/beautiful-data"
+permalink: "/posts/beautiful-data"
+tags: ["book-review"]
 ---
 
 Another book I just finished is [Beautiful Data: The Stories Behind Elegant Data Solutions](https://www.amazon.com/Beautiful-Data-Stories-Elegant-Solutions/dp/0596157118/). This book is a bit unusual in that, rather than being written by a single author, instead each chapter is written by a different person or group. The common thread tying all the chapters together is *data* - data collection, analysis, and presentation. The book was published a few years ago, in 2009, so some of the technology discussed is a bit dated. But it still provides a valuable historical perspective.

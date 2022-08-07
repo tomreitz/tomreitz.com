@@ -1,6 +1,7 @@
 ---
 title: "Bowling Alone"
-permalink: "/book-reviews/bowling-alone"
+permalink: "/posts/bowling-alone"
+tags: ["book-review"]
 ---
 
 I've had Bowling Alone on my reading list since attending a [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) conference back in the summer of 2018 at [Viterbo University](https://www4.viterbo.edu/), when one of the speakers mentioned it in his presentation. So I was happy when I was finally able to check it out from the library!
