@@ -23,23 +23,3 @@ a master's degree with emphasis in data science at the same institution.
 Thanks for checking out my website. May you have joy and peace wherever you go in life!
 
 *Opinions on this website are my own.*
-
-
-[Facebook](https://www.facebook.com/tom.reitz) [Twitter](https://twitter.com/t0mreitz) [YouTube](https://www.youtube.com/user/tomreitz) [LinkedIn](https://www.linkedin.com/in/tomreitz/)
-
-
-# Posts
-* [The Effect of Redistricting](posts/the-effect-of-redistricting.md) (February 13, 2021) (data, politics)
-* [Resistance and Momentum](posts/resistance-and-momentum.md) (January 28, 2021) (motivation)
-* [Working from Home](posts/working-from-home.md) (March 13, 2020) (remove-work)
-* [Back from Europe](posts/back-from-europe.md) (July 23, 2019) (travel)
-* [On Gerrymandering](posts/on-gerrymandering.md) (December 11, 2018) (data, politics)
-
-# Book Reviews
-* [Bowling Alone](book-reviews/bowling-alone.md) (October 17, 2019)
-* [Beautiful Data](book-reviews/beautiful-data.md) (September 6, 2019)
-* [Good Profit](book-reviews/good-profit.md) (August 12, 2019)
-* [The Best Place to Work](book-reviews/the-best-place-to-work.md) (April 17, 2019)
-* [Weapons of Math Destruction](book-reviews/weapons-of-math-destruction.md) (April 5, 2019)
-* [The 4-Hour Work-Week](book-reviews/the-4-hour-work-week.md) (November 14, 2018)
-* [The Power of Habit](book-reviews/the-power-of-habit.md) (November 8, 2018)
