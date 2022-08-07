@@ -1,4 +1,8 @@
-# Good Profit
+---
+layout: "page"
+title: "Good Profit"
+permalink: "/book-reviews/good-profit"
+---
 
 *Posted August 12, 2019*
 

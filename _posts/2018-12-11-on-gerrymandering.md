@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "On gerrymandering"
+permalink: "/posts/on-gerrymandering"
 ---
 
 *Posted December 11, 2018*

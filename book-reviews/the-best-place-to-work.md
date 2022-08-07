@@ -1,4 +1,8 @@
-# The Best Place to Work
+---
+layout: "page"
+title: "The Best Place to Work"
+permalink: "/book-reviews/the-best-place-to-work"
+---
 
 *Posted April 17, 2019*
 

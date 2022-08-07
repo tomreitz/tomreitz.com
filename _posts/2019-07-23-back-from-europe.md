@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Back from Europe"
+permalink: "/posts/back-from-europe"
 ---
 
 *Posted July 23, 2019*

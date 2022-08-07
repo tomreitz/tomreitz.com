@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Working from home"
+permalink: "/posts/working-from-home"
 ---
 
 *Posted March 13, 2020*

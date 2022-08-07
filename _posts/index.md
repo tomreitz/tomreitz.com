@@ -1,3 +1,8 @@
+---
+title: "Posts"
+permalink: "/posts/"
+---
+
 * [The Effect of Redistricting](./the-effect-of-redistricting.html) (February 13, 2021) (data, politics)
 * [Resistance and Momentum](./resistance-and-momentum.html) (January 28, 2021) (motivation)
 * [Working from Home](./working-from-home.html) (March 13, 2020) (remove-work)

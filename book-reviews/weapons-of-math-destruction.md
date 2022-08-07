@@ -1,4 +1,8 @@
-# Weapons of Math Destruction
+---
+layout: "page"
+title: "Weapons of Math Destruction"
+permalink: "/book-reviews/weapons-of-math-destruction"
+---
 
 *Posted April 5, 2019*
 

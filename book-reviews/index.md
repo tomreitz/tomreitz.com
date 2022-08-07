@@ -1,4 +1,7 @@
-# Book reviews
+---
+title: "Book reviews"
+permalink: "/book-reviews/"
+---
 
 I enjoy reading and sometimes I note down some thoughts about what I've read. Below are some book reviews.
 

@@ -1,4 +1,8 @@
-# The Power of Habit
+---
+layout: "page"
+title: "The Power of Habit"
+permalink: "/book-reviews/the-power-of-habit"
+---
 
 *Posted November 8, 2018*
 

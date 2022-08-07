@@ -12,6 +12,9 @@ name: "Tom Reitz"
 title: "Tom Reitz"
 description: "Tom is a technology professional based in Madison WI"
 url: "https://tomreitz.com"
+
+include: ["_pages", "_posts", "_book_reviews"]
+
 logo: "/assets/logo.png"
 
 atom_feed:

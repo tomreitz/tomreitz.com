@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The effect of redistricting"
+permalink: "/posts/the-effect-of-redistricting"
 ---
 
 *Posted February 13, 2021*

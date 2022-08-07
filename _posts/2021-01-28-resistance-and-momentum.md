@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Resistance and momentum"
+permalink: "/posts/resistance-and-momentum"
 ---
 
 *Posted January 28, 2021*

@@ -1,4 +1,8 @@
-# Bowling Alone
+---
+layout: "page"
+title: "Bowling Alone"
+permalink: "/book-reviews/bowling-alone"
+---
 
 *Posted October 17, 2019*
 

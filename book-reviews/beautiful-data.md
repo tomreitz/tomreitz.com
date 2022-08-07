@@ -1,4 +1,8 @@
-# Beautiful Data
+---
+layout: "page"
+title: "Beautiful Data"
+permalink: "/book-reviews/beautiful-data"
+---
 
 *Posted September 6, 2019*
 
