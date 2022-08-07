@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Back from Europe"
+---
+
 *Posted July 23, 2019*
 
 I haven't posted since April, which is because my wife and I had the opportunity to travel through Europe for 10 weeks! If you'd like, you can read more about our adventures [here](http://www.traceyandtom.com/europe-2019). Now that I'm back, I plan to resume writing here occasionally.
