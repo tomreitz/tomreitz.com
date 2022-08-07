@@ -3,8 +3,6 @@ title: "The Best Place to Work"
 permalink: "/book-reviews/the-best-place-to-work"
 ---
 
-*Posted April 17, 2019*
-
 A few weeks ago, I was reading Ron Friedman's [The Best Place to Work](https://amzn.to/2Dg1hO4) at a clinic when my doctor walked in and quipped "I see you are reading a work of fiction." This admittedly amusing comment reflects the fact that many people don't enjoy their work, their colleagues, or their workplace.
 
 Although it's [improved slightly](https://news.gallup.com/poll/241649/employee-engagement-rise.aspx) in the last few years, Gallup consistently reports abysmal workforce engagement figures. Only one third of U.S. workers are "engaged," meaning they are involved in, enthusiastic about, and committed to their work and workplace. Slightly over half of workers are "not engaged" (usually show up to work and do the minimum required but will quickly leave their company for a slightly better offer), and the rest - about 15% - are "actively disengaged" (those who are miserable at work).

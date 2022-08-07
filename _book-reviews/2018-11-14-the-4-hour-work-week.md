@@ -3,8 +3,6 @@ title: "The 4-Hour Work Week"
 permalink: "/book-reviews/the-4-hour-work-week"
 ---
 
-*Posted November 14, 2018*
-
 Several people I know have mentioned Tim Ferris' book [The 4-Hour Work-Week](https://amzn.to/2qO8RZw), so I thought I'd check it out. Fortunately my library had a copy.
 
 In this book, Ferris basically tries to sell the idea that you can, and should, re-engineer your lifestyle to involve

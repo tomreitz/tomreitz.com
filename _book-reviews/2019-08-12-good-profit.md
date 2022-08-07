@@ -3,8 +3,6 @@ title: "Good Profit"
 permalink: "/book-reviews/good-profit"
 ---
 
-*Posted August 12, 2019*
-
 I've had [Good Profit](https://www.amazon.com/Good-Profit-Creating-Successful-Companies-ebook/dp/B00TWEMGE8) by [Charles Koch](https://en.wikipedia.org/wiki/Charles_Koch) on my to-read list for a while, and I finally picked up a copy at the library. Whatever you may think of the Koch family or empire, it's hard to argue that they've been unsuccessful in business. The book lays out the "Market-Based Management" business philosophy Koch has developed over his career and which he uses to run his company.
 
 In the first chapter of the book, Koch proudly states that the value of his company grew from $21M in 1961 to $100B today, and that this growth is 25x that of the S&P 500 over the same period. The cynic in me wonders if this truly impressive growth could be based more on the company's primary vertical (oil refinement) than on the superiority of its business principles. In the U.S., oil consumption has more than doubled since Charles Koch took over his father's company in 1967, and various political and economic pressures have created market forces favoring domestic production. One could argue that *most* oil-producing companies have seen growth in stock value and profits over this time period, and that Koch Industries is not especially unique in the industry.

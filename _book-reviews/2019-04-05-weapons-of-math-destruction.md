@@ -3,8 +3,6 @@ title: "Weapons of Math Destruction"
 permalink: "/book-reviews/weapons-of-math-destruction"
 ---
 
-*Posted April 5, 2019*
-
 I recently read [Weapons of Math Destruction](https://amzn.to/2CUTrcb) by Cathy O'Niel, after seeing it recommended several times. The book is an easy read and a thought-provoking exploration of the ethical implications of big data algorithms.
 
 O'Neil argues that opaque predictive algorithms can codify bias, racism, and inequality into automated systems. Through numerous examples in educational, financial, and judicial systems, she illustrates how the humans who design algorithms can unintentionally imbue them with their own prejudices.

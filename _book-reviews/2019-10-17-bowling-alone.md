@@ -3,8 +3,6 @@ title: "Bowling Alone"
 permalink: "/book-reviews/bowling-alone"
 ---
 
-*Posted October 17, 2019*
-
 I've had Bowling Alone on my reading list since attending a [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) conference back in the summer of 2018 at [Viterbo University](https://www4.viterbo.edu/), when one of the speakers mentioned it in his presentation. So I was happy when I was finally able to check it out from the library!
 
 In [Bowling Alone: The Collapse and Revival of American Community](https://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/B01N94FW0P/), author Robert Putnam presents an avalanche of evidence that Americans are becoming less connected to each other in communities. This trend began shortly after the 1960s and continues to this day. People are now less involved with church, local politics, clubs, service organizations, and social groups than they used to be. They also have fewer close friends and entertain less frequently.
