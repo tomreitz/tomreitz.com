@@ -1,6 +1,6 @@
 ---
 title: "Bowling Alone"
-permalink: "/posts/bowling-alone"
+permalink: "/book-reviews/bowling-alone"
 tags: ["book-review"]
 ---
 

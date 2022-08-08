@@ -1,6 +1,6 @@
 ---
 title: "Good Profit"
-permalink: "/posts/good-profit"
+permalink: "/book-reviews/good-profit"
 tags: ["book-review"]
 ---
 

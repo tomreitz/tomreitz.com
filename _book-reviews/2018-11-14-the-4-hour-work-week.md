@@ -1,6 +1,6 @@
 ---
 title: "The 4-Hour Work Week"
-permalink: "/posts/the-4-hour-work-week"
+permalink: "/book-reviews/the-4-hour-work-week"
 tags: ["book-review"]
 ---
 

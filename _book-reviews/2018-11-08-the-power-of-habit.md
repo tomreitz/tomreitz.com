@@ -1,6 +1,6 @@
 ---
 title: "The Power of Habit"
-permalink: "/posts/the-power-of-habit"
+permalink: "/book-reviews/the-power-of-habit"
 tags: ["book-review"]
 ---
 

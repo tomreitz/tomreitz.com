@@ -1,6 +1,6 @@
 ---
 title: "The Best Place to Work"
-permalink: "/posts/the-best-place-to-work"
+permalink: "/book-reviews/the-best-place-to-work"
 tags: ["book-review"]
 ---
 

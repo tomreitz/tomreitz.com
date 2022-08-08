@@ -1,6 +1,6 @@
 ---
 title: "Weapons of Math Destruction"
-permalink: "/posts/weapons-of-math-destruction"
+permalink: "/book-reviews/weapons-of-math-destruction"
 tags: ["book-review"]
 ---
 

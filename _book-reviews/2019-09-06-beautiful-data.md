@@ -1,6 +1,6 @@
 ---
 title: "Beautiful Data"
-permalink: "/posts/beautiful-data"
+permalink: "/book-reviews/beautiful-data"
 tags: ["book-review"]
 ---
 
