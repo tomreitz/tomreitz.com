@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-My updates and musings: ($E = M \cdot c^2$)
+My updates and musings:
