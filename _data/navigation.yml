@@ -4,4 +4,4 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Book Reviews"
-    url: /tags/book-review/
+    url: /book-reviews/

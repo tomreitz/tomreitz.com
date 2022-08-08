@@ -28,6 +28,10 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+  book-reviews:
+    output: true
+    permalink: /:collection/:path/
+
 
 defaults:
   # _pages
