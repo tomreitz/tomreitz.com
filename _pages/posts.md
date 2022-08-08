@@ -6,3 +6,5 @@ collection: posts
 entries_layout: grid
 classes: wide
 ---
+
+My updates and musings:

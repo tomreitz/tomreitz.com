@@ -13,7 +13,7 @@ title: "Tom Reitz"
 description: "Tom is a technology professional based in Madison WI"
 url: "https://tomreitz.com"
 
-include: ["_pages", "_posts", "_book-reviews"]
+include: ["_pages", "_posts", "_book-reviews", "_projects"]
 
 logo: "/assets/logo.png"
 
@@ -29,6 +29,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   book-reviews:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -55,6 +58,17 @@ defaults:
   - scope:
       path: ""
       type: book-reviews
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
