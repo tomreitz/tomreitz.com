@@ -1,6 +1,5 @@
 ---
 title: "The Power of Habit"
-layout: "single"
 permalink: "/book-reviews/the-power-of-habit"
 tags: ["book-review"]
 ---
