@@ -54,7 +54,7 @@ defaults:
   # _book-reviews
   - scope:
       path: ""
-      type: posts
+      type: book-reviews
     values:
       layout: single
       author_profile: true
