@@ -8,3 +8,5 @@ classes: wide
 ---
 
 My updates and musings:
+
+$$ E = M \cdot c^2 $$
