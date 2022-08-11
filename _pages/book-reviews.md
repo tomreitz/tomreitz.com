@@ -1,10 +1,10 @@
 ---
-title: Book Reviews
+title: Projects
 layout: collection
-permalink: /book-reviews/
-collection: book-reviews
+permalink: /projects/
+collection: projects
 entries_layout: grid
 classes: wide
 ---
 
-Writing a review is a great way to make myself digest a book more deeply. Here are reviews of some books I've read:
+Here are some bigger projects I've done:

@@ -51,3 +51,4 @@ Also, while the Census Bureau (a federal agency) conducts the census and determi
 ---
 
 (The code for this analysis is [at GitHub](https://github.com/tomreitz/data-science/tree/main/2010-redistricting).)
+{: .text-center}

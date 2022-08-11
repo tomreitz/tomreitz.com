@@ -8,7 +8,7 @@ Please [contact me](mailto:tom@tomreitz.com) if you have any questions or just w
 building strong relationships, and having interesting conversations!
 
 I am currently a data engineer at [Education Analytics](https://www.edanalytics.org/). I work to design, build, and maintain
-automated data pipelines and analytic systems to help improve pulbic K-12 education.
+automated data pipelines and analytic systems to help improve public K-12 education.
 
 Previously (from October 2013 to February 2022), I worked for [Ballotpedia](https://ballotpedia.org/) as lead developer and
 solutions architect. I rebuilt technical infrastructure to accommodate election-related traffic spikes of over 1M pageviews
