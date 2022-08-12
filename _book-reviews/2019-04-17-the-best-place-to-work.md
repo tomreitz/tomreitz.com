@@ -2,7 +2,13 @@
 title: "The Best Place to Work"
 permalink: "/book-reviews/the-best-place-to-work"
 tags: ["book-review"]
+header:
+  teaser: /assets/images/book-reviews/best-place-to-work.jpg
+excerpt: >
+  Research-based insights on how to get workers to engage at work, and make the workplace better and happier.
 ---
+
+![The Best Place to Work](../assets/images/book-reviews/best-place-to-work.jpg){: .align-right}
 
 A few weeks ago, I was reading Ron Friedman's [The Best Place to Work](https://amzn.to/2Dg1hO4) at a clinic when my doctor walked in and quipped "I see you are reading a work of fiction." This admittedly amusing comment reflects the fact that many people don't enjoy their work, their colleagues, or their workplace.
 

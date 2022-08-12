@@ -2,7 +2,13 @@
 title: "Weapons of Math Destruction"
 permalink: "/book-reviews/weapons-of-math-destruction"
 tags: ["book-review"]
+header:
+  teaser: /assets/images/book-reviews/weapons-of-math-destruction.jpg
+excerpt: >
+  An enjoyable and eye-opening view of the dark side of data algorithms.
 ---
+
+![Weapons of Math Destruction](../assets/images/book-reviews/weapons-of-math-destruction.jpg){: .align-right}
 
 I recently read [Weapons of Math Destruction](https://amzn.to/2CUTrcb) by Cathy O'Niel, after seeing it recommended several times. The book is an easy read and a thought-provoking exploration of the ethical implications of big data algorithms.
 
@@ -19,4 +25,4 @@ Toward the end of the book, O'Neil mentions an intruiging idea I've heard elsewh
 
 Many people try to stop smoking a hundred times and fail. Predictive algorithms would therefore reasonably assign a very low probability of success to the next attempt to quit. But free will can, and occasionally does, enable someone to quit on that hundred-and-first try. We must never forget the human capacity to change - to do so would be unmerciful and unjust.
 
-*Weapons of Math Destruction* is an enjoyable and eye-opening view on the dark side of data algorithms.
+*Weapons of Math Destruction* is an enjoyable and eye-opening view of the dark side of data algorithms.

@@ -2,7 +2,13 @@
 title: "Good Profit"
 permalink: "/book-reviews/good-profit"
 tags: ["book-review"]
+header:
+  teaser: /assets/images/book-reviews/good-profit.jpg
+excerpt: >
+  A thought-provoking treatise on economics, management, and leadership from someone with a lot of business experience.
 ---
+
+![The Power of Habit](../assets/images/book-reviews/good-profit.jpg){: .align-right}
 
 I've had [Good Profit](https://www.amazon.com/Good-Profit-Creating-Successful-Companies-ebook/dp/B00TWEMGE8) by [Charles Koch](https://en.wikipedia.org/wiki/Charles_Koch) on my to-read list for a while, and I finally picked up a copy at the library. Whatever you may think of the Koch family or empire, it's hard to argue that they've been unsuccessful in business. The book lays out the "Market-Based Management" business philosophy Koch has developed over his career and which he uses to run his company.
 

@@ -2,13 +2,19 @@
 title: "Bowling Alone"
 permalink: "/book-reviews/bowling-alone"
 tags: ["book-review"]
+header:
+  teaser: /assets/images/book-reviews/bowling-alone.jpg
+excerpt: >
+  A somber look at how American society has changed in the last century. Despite the incredible rise of communication technology, we are, unfortunately, more disconnected than ever.
 ---
+
+![Bowling Alone](../assets/images/book-reviews/bowling-alone.jpg){: .align-right}
 
 I've had Bowling Alone on my reading list since attending a [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) conference back in the summer of 2018 at [Viterbo University](https://www4.viterbo.edu/), when one of the speakers mentioned it in his presentation. So I was happy when I was finally able to check it out from the library!
 
 In [Bowling Alone: The Collapse and Revival of American Community](https://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/B01N94FW0P/), author Robert Putnam presents an avalanche of evidence that Americans are becoming less connected to each other in communities. This trend began shortly after the 1960s and continues to this day. People are now less involved with church, local politics, clubs, service organizations, and social groups than they used to be. They also have fewer close friends and entertain less frequently.
 
-Putnam examines numerous possible reasons for this disengagement, and concludes that no single cause explains the change. Rather, a combination of changes in family structure (including the increased participation of women in the workforce), increased consumption of electornic entertainment (most notably television-watching), and generational change (the post-WWII generation, which was remarkably socially *engaged*, is fading away) as the primary causes of the phenomenon - but he notes that all of these factors together only explain part of the observed decline in social engagement.
+Putnam examines numerous possible reasons for this disengagement, and concludes that no single cause explains the change. Rather, a combination of changes in family structure (including the increased participation of women in the workforce), increased consumption of electronic entertainment (most notably television-watching), and generational change (the post-WWII generation, which was remarkably socially *engaged*, is fading away) as the primary causes of the phenomenon - but he notes that all of these factors together only explain part of the observed decline in social engagement.
 
 The term Putnam uses repeatedly for this connectedness, or lack thereof, is *social capital* - the trust, reciprocity, information, and cooperation associated with social networks. He compares social capital to other forms of capital including human capital (the capacities of individuals, inherited and acquired through education and training) and financial capital (economic resources measured in terms of money).
 
