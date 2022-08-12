@@ -16,7 +16,7 @@ Data science to the rescue!
 
 The Census Bureau provides shapefiles for Congressional districts every year, so I downloaded [the 2010 district boundaries](https://www2.census.gov/geo/tiger/TIGER2010/CD/108/tl_2010_us_cd108.zip) (from before the 2010-cycle redistricting) and [the 2014 boundaries](https://www2.census.gov/geo/tiger/TIGER2014/CD/tl_2014_us_cd114.zip) (after redistricting and most legal challenges to it) and computed the difference between them: areas which changed from one district to another. Here's what that looks like:
 
-![../assets/redistricting-difference.png](../assets/redistricting-difference.png)
+![Area changed (difference)](../assets/images/projects/redistricting-difference.png)
 
 It's a fairly large area, but how how many people lived in it? To determine that, I downloaded [the shapefile for the 2010 Census Tracts](http://www2.census.gov/geo/tiger/TIGER2010DP1/Tract_2010Census_DP1.zip), which includes the boundaries of 74,002 census tracts with demographic data for each. One of the demographic data points is the number of people age 16+ living in each Tract in 2010, which is a useful proxy for "voting-age population" since these people would be at least 18 years old (and thus eligible to vote) in the next major election in 2012. (The total 16+ population in the United States was 246,211,542 in 2010.)
 
@@ -26,13 +26,13 @@ Now I just had find the intersection of the above area with the census tracts an
 
 First, I determined any census tracts that *overlap* the area where Congressional districts changed. This over-counts, since in many cases *only part* of the census tract overlaps. The map below shows this constituted 43,604 of the 74,002 Census Tracts, with a total 16+ population of 150,142,547 (61%).
 
-![../assets/redistricting-difference-population-overlap.png](../assets/redistricting-difference-population-overlap.png)
+![Area changed (overlap method)](../assets/images/projects/redistricting-difference-population-overlap.png)
 
 ### **Contain**
 
 A more conservative estimate would only count census tracts that are *entirely contained* within the area where Congressional districts changed. This undercounts, since parts of neighboring tracts may also overlap. Nevertheless, this approximation yielded the map below, consisting of 17,229 out of the 74,002 Census Tracts, with a total 16+ population of 57,578,259 (23%).
 
-![../assets/redistricting-difference-population-contain.png](../assets/redistricting-difference-population-contain.png)
+![Area changed (contain method)](../assets/images/projects/redistricting-difference-population-contain.png)
 
 Note also that this map makes it pretty clear that most of the areas impacted by redistricting were in California, Texas, Florida, and the Northeast.
 
