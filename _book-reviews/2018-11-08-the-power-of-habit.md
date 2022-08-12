@@ -3,11 +3,12 @@ title: "The Power of Habit"
 permalink: "/book-reviews/the-power-of-habit"
 tags: ["book-review"]
 header:
-  image: /assets/images/book-reviews/the-power-of-habit.jpg
   teaser: /assets/images/book-reviews/the-power-of-habit.jpg
+excerpt: >
+  Full of engaging stories and science-based insights, this book gives insight into your own and others' habits - why we form them and how to change them.
 ---
 
-![The Power of Habit](../assets/images/book-reviews/the-power-of-habit.jpg)
+![The Power of Habit](../assets/images/book-reviews/the-power-of-habit.jpg){: .align-left}
 
 Recently I picked up a copy of [The Power of Habit](https://amzn.to/2DukPzU) by Charles Duhigg from my local library. I thought it would be an interesting read  because our lives are often ruled by habits - morning coffee, morning commute, afternoon exercise, late-night stress-eating. Understanding how habits are formed and broken, and taking time to reflect on the positive and negative habits in my life, might help me to build better habits and improve my life.
 
