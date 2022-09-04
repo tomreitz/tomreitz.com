@@ -3,7 +3,7 @@ title:  "AWS Category Explorer"
 permalink: "/posts/aws-category-explorer"
 categories: ["data", "visualization"]
 header:
-  teaser: https://img.youtube.com/vi/LD5jXRB3Il4/maxresdefault.jpg
+  teaser: /assets/images/projects/aws-category-explorer.jpg
 excerpt: >
   An interactive visualization tool for Amazon's tree of over 27,000 product categories.
 
