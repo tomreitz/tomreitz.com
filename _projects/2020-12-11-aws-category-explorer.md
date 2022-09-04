@@ -13,7 +13,9 @@ excerpt: >
 
 <center>
 <a class="btn btn--info btn--primary" href="https://tomreitz.github.io/amazon-category-explorer/" target="_blank">Try the App</a>
+<br />
 </center>
+
 
 Below is a video demoing the app:
 [![Watch the video](https://img.youtube.com/vi/LD5jXRB3Il4/maxresdefault.jpg)](https://youtu.be/LD5jXRB3Il4)
