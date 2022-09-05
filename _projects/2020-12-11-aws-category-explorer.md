@@ -18,4 +18,5 @@ excerpt: >
 
 
 Below is a video demoing the app:
-[![Watch the video](https://img.youtube.com/vi/LD5jXRB3Il4/maxresdefault.jpg)](https://youtu.be/LD5jXRB3Il4)
+
+{% include video id="LD5jXRB3Il4" provider="youtube" %}

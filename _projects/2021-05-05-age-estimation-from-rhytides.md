@@ -1,7 +1,7 @@
 ---
 title:  "Age Estimation from Rhytides"
 permalink: "/posts/age-estimation-from-rhytides"
-categories: ["data", "visualization"]
+categories: ["data", "computer-vision"]
 header:
   teaser: /assets/images/projects/age-estimation-from-rhytides.jpg
 excerpt: >
@@ -23,4 +23,5 @@ Ultimately, we found that variations in lighting and facial expressions cause en
 
 
 Below is a video presentation about the project:
-[![Watch the video](https://img.youtube.com/vi/TrRghR6Su7I/maxresdefault.jpg)](https://youtu.be/TrRghR6Su7I)
+
+{% include video id="TrRghR6Su7I" provider="youtube" %}
