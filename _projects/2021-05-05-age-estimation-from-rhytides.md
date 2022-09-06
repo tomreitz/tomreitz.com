@@ -15,10 +15,10 @@ Our approach involved using face detection to create bounding polygons on variou
 Ultimately, we found that variations in lighting and facial expressions cause enough noise to make this method unreliable for estimating age. However, the project was an interesting one, and we created [a smaller but cleaner subset of UTKFace with only higher-quality images](https://github.com/tomreitz/cs766-computer-vision-project/tree/main/data/UTKFace-cleaned.zip) which may be useful to other researchers.
 
 <center>
-<a class="btn btn--info btn--primary" href="https://tomreitz.github.io/cs766-computer-vision-project/" target="_blank">Project page</a>
-<a class="btn btn--info btn--primary" href="https://github.com/tomreitz/cs766-computer-vision-project/tree/main/code" target="_blank">Code</a>
+<a class="btn btn--info btn--primary" href="https://tomreitz.github.io/cs766-computer-vision-project/" target="_blank">Project page</a> &nbsp; &nbsp;
+<a class="btn btn--info btn--primary" href="https://github.com/tomreitz/cs766-computer-vision-project/tree/main/code" target="_blank">Code</a> &nbsp; &nbsp;
 <a class="btn btn--info btn--primary" href="https://docs.google.com/presentation/d/1aJU_h0YStWdd_LNF0Sg-z33jkzOfN0_mpU_Pu-ZvVHo/edit?usp=sharing" target="_blank">Slides</a>
-<br />
+<br /><br />
 </center>
 
 

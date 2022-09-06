@@ -13,7 +13,7 @@ excerpt: >
 
 <center>
 <a class="btn btn--info btn--primary" href="https://tomreitz.github.io/amazon-category-explorer/" target="_blank">Try the App</a>
-<br />
+<br /><br />
 </center>
 
 

@@ -12,7 +12,7 @@ In spring 2021, I did a project for my *foundations of data management* class wh
 
 <center>
 <a class="btn btn--info btn--primary" href="https://github.com/tomreitz/logservatory" target="_blank">Code</a>
-<br />
+<br /><br />
 </center>
 
 Using logservatory, I analyzed the website access logs of Ballotpedia.org (my employer at the time) for the entire year 2020 &mdash; 3.2 billion requests, 1.4 TB of log files (uncompressed). Results of the analysis can be found in the video presentation below.
