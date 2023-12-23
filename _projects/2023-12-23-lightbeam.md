@@ -9,6 +9,8 @@ excerpt: >
 
 ---
 
+![lightbeam](../assets/images/projects/lightbeam.png)
+
 [lightbeam](https://github.com/edanalytics/lightbeam) is a command-line tool for interacting with [Ed-Fi](https://www.ed-fi.org/) APIs, which I've built as part of my work at [Education Analytics](https://www.edanalytics.org/). It can
  * `count` records in an Ed-Fi API
  * `fetch` JSON payloads from an Ed-Fi API

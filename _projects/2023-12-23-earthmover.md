@@ -9,6 +9,8 @@ excerpt: >
 
 ---
 
+![earthmover](../assets/images/projects/earthmover.png)
+
 [earthmover](https://github.com/edanalytics/earthmover) is a command-line data transformation tool I've built as part of my work at [Education Analytics](https://www.edanalytics.org/). It
  * loads data from a variety of sources, including CSV and other types of files, relational database connections, and more
  * transforms the data according to instructions in a YAML file

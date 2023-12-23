@@ -9,6 +9,8 @@ excerpt: >
 
 ---
 
+![dbt_synth_data](../assets/images/projects/dbt_synth_data.png)
+
 [dbt_synth_data](https://github.com/edanalytics/dbt_synth_data) is a [dbt package](https://docs.getdbt.com/docs/build/packages) I've built as part of my work at [Education Analytics](https://www.edanalytics.org/). The package's features include:
 * support for [Snowflake](https://www.snowflake.com/en/), [Postgres](https://www.postgresql.org/), [SQLite](https://www.sqlite.org/index.html), and [DuckDB](https://duckdb.org/) backends
 * ability to generate various distributions including normal, exponential, binomial, and more
