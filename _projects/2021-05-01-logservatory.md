@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/projects/logservatory.jpg
 excerpt: >
   A Python and SQLite tool for querying website access logs.
+date: 2021-05-01
 ---
 
 In spring 2021, I did a project for my *foundations of data management* class where I built a Python and SQLite tool for processing website access logs. The tool is fairly efficient because it reads log files from disk only once but can run any number of queries over them. Moreover, it can process streaming logs in realtime, which can make it a useful tool for detecting and blocking credential stuffing, scraping, and other attacks.

@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/projects/lightbeam.png
 excerpt: >
   A CLI tool for validating and transmitting payloads from JSONL files into an Ed-Fi API.
+date: 2023-12-23
 
 ---
 
