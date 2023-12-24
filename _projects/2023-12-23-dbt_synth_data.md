@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/projects/dbt_synth_data.png
 excerpt: >
   A dbt package for creating synthetic data on several backends.
-post_date: 2023-12-23 00:00:00
 ---
 
 ![dbt_synth_data](../assets/images/projects/dbt_synth_data.png)

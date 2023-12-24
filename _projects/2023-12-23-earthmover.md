@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/projects/earthmover.png
 excerpt: >
   A CLI tool for transforming collections of tabular source data into a variety of text-based data formats via YAML configuration and Jinja templates.
-post_date: 2023-12-23 00:00:00
 ---
 
 ![earthmover](../assets/images/projects/earthmover.png)

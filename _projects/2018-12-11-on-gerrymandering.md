@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/projects/gerrymandering-square.png
 excerpt: >
   Gerrymandering is one of those "I know it when I see it" things... but how can we define and quantify it? Here is one attempt, with some analysis of current political districts.
-post_date: 2018-12-11 00:00:00
 ---
 
 [According to the U.S. Constitution](https://history.house.gov/Institution/Origins-Development/Proportional-Representation/), congressional districts are supposed to provide [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation). Practically speaking, that means that districts should be [contiguous](https://en.wikipedia.org/wiki/Geographic_contiguity), contain roughly the same number of inhabitants, and (based on the Voting Rights Act of 1965) roughly the same racial makeup. State legislative districts are also drawn to similar standards.

@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/projects/aws-category-explorer.jpg
 excerpt: >
   An interactive visualization tool for Amazon's tree of over 27,000 product categories.
-post_date: 2020-12-11 00:00:00
 
 ---
 

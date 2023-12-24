@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/projects/redistricting-difference.png
 excerpt: >
   What proportion of the US population is affected by redistricting? Here is a data-based estimate - the answer is surprisingly large.
-post_date: 2021-02-13 00:00:00
 ---
 
 Every ten years the [U.S. Census Bureau](https://en.wikipedia.org/wiki/United_States_Census_Bureau) conducts a new census, a process required under [the Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States) which involves surveying every household in the country to obtain updated population figures. Accurate data is important for numerous reasons, most notably for ensuring proper [apportionment](https://en.wikipedia.org/wiki/United_States_congressional_apportionment) of seats in the U.S. House of Representatives.
