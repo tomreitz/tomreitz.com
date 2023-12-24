@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/projects/age-estimation-from-rhytides.jpg
 excerpt: >
   A computer vision project with the goal of detecting and quantifying facial wrinkles (rhytides) for age estimation.
-date: 2021-05-05
+post_date: 2021-05-05 00:00:00
 ---
 
 In spring 2021 another graduate student and I did a project for our computer vision class which involved trying to detect and quantify facial wrinkles (rhytides) in face images for age estimation &mdash; an open computer vision problem.
