@@ -2,6 +2,7 @@
 title:  "Resistance and momentum"
 permalink: "/posts/resistance-and-momentum"
 categories: ["motivation"]
+date: 2021-01-28
 ---
 
 I've been thinking recently about workplace dynamics in terms of concepts from [classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics) such as *resistanc*e (and related terms like *friction* or *drag*) and *momentum* (related to *inertia*).

@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/book-reviews/bowling-alone.jpg
 excerpt: >
   A somber look at how American society has changed in the last century. Despite the incredible rise of communication technology, we are, unfortunately, more disconnected than ever.
+date: 2019-10-17
 ---
 
 ![Bowling Alone](../assets/images/book-reviews/bowling-alone.jpg){: .align-right}

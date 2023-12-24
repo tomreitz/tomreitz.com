@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/book-reviews/good-profit.jpg
 excerpt: >
   A thought-provoking treatise on economics, management, and leadership from someone with a lot of business experience.
+date: 2019-08-12
 ---
 
 ![The Power of Habit](../assets/images/book-reviews/good-profit.jpg){: .align-right}

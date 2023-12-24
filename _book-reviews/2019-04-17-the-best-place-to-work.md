@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/book-reviews/best-place-to-work.jpg
 excerpt: >
   Research-based insights on how to get workers to engage at work, and make the workplace better and happier.
+date: 2019-04-17
 ---
 
 ![The Best Place to Work](../assets/images/book-reviews/best-place-to-work.jpg){: .align-right}

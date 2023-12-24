@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/book-reviews/beautiful-data.jpg
 excerpt: >
   An interesting collection of disparate stories about data - how it is collected, analyzed, and presented.
+date: 2019-09-06
 ---
 
 ![Beautiful Data](../assets/images/book-reviews/beautiful-data.jpg){: .align-right}

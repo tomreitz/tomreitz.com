@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/book-reviews/the-power-of-habit.jpg
 excerpt: >
   Full of engaging stories and science-based insights, this book gives insight into your own and others' habits - why we form them and how to change them.
+date: 2018-11-08
 ---
 
 ![The Power of Habit](../assets/images/book-reviews/the-power-of-habit.jpg){: .align-right}

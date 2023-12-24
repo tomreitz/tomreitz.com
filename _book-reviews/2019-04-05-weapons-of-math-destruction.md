@@ -6,6 +6,7 @@ header:
   teaser: /assets/images/book-reviews/weapons-of-math-destruction.jpg
 excerpt: >
   An enjoyable and eye-opening view of the dark side of data algorithms.
+date: 2019-04-05
 ---
 
 ![Weapons of Math Destruction](../assets/images/book-reviews/weapons-of-math-destruction.jpg){: .align-right}

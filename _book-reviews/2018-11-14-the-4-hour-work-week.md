@@ -4,6 +4,7 @@ permalink: "/book-reviews/the-4-hour-work-week"
 tags: ["book-review"]
 excerpt: >
   An interesting read with some good ideas, but some dangerous ones too.
+date: 2018-11-14
 ---
 
 Several people I know have mentioned Tim Ferris' book [The 4-Hour Work-Week](https://amzn.to/2qO8RZw), so I thought I'd check it out. Fortunately my library had a copy.
