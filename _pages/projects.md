@@ -2,7 +2,7 @@
 title: Projects
 layout: collection
 permalink: /projects/
-collections:
+collection:
   projects:
     order:
       - 2023-12-23-dbt_synth_data.md
