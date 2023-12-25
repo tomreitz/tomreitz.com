@@ -7,7 +7,7 @@ Hey there, I'm Tom Reitz. On this site, you will find my book reviews, data anal
 Please [contact me](mailto:tom@tomreitz.com) if you have any questions or just want to say hi. I love meeting new people,
 building strong relationships, and having interesting conversations!
 
-I am currently a data engineer at [Education Analytics](https://www.edanalytics.org/). I work to design, build, and maintain
+I am currently a senior data engineer at [Education Analytics](https://www.edanalytics.org/). I work to design, build, and maintain
 automated data pipelines and analytic systems to help improve public K-12 education. My work at EA includes projects like [earthmover](/projects/earthmover), [lightbeam](/projects/lightbeam), and [dbt_synth_data](/projects/dbt_synth_data).
 
 Previously (from October 2013 to February 2022), I worked for [Ballotpedia](https://ballotpedia.org/) as lead developer and
